@@ -1,0 +1,29 @@
+_repo: The-Motor-Boat-Club-and-The-Wireless--13-Or-the-Dot-Dash-and-Dare-Cruise_28449
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28449-h/images/cover.png
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2009-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Telegraph -- Juvenile fiction'
+title: The Motor Boat Club and The Wireless; Or, the Dot, Dash and Dare Cruise
+url: http://www.gutenberg.org/ebooks/28449
