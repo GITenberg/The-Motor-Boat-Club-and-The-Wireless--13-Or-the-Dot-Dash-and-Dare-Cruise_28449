@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2034
     wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28449#The-Motor-Boat-Club-and-The-Wireless--13-Or-the-Dot-Dash-and-Dare-Cruise
 gutenberg_issued: '2009-03-30'
 gutenberg_type: Text
 identifiers:
